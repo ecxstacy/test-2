@@ -1,7 +1,19 @@
 # Patrick Nyutu Mbugua — Portfolio
 
-This folder contains a static portfolio with images, animations, and a simple Netlify CMS config for content editing.
+Personal marketing & social media portfolio.
 
-Open index.html in a browser to preview. Assets are in /images.
+## Structure
+- index.html
+- about.html
+- projects.html
+- styles.css
+- resume.pdf
 
-Animations: CSS-based hover elevation, float animation for hero image, and fade-up entrance effects.
+## How to view
+Open `index.html` in any browser.
+
+## Deployment (GitHub Pages)
+1. Create a GitHub repo
+2. Upload all files
+3. Settings → Pages → main / root
+4. Open generated URL
